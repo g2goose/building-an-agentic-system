@@ -7,12 +7,14 @@ A comprehensive guide to building production-ready AI coding assistants, from lo
 This two-book series provides practical engineering patterns for building AI coding assistants based on analysis of real production systems including Claude Code, Amp, and open-source implementations.
 
 **Book 1: Building an Agentic System**
+
 - Core architecture patterns for AI coding assistants
 - Reactive terminal UIs with streaming responses
 - Tool systems and permission models
 - Parallel execution strategies
 
 **Book 2: Amping Up an Agentic System**
+
 - Scaling from single-user to collaborative platforms
 - Enterprise authentication and team workflows
 - Real-time synchronization patterns
@@ -21,6 +23,7 @@ This two-book series provides practical engineering patterns for building AI cod
 ## For Engineers
 
 Written for software engineers building AI-powered development tools, with focus on:
+
 - Practical patterns over theory
 - Real architectural decisions
 - Production-ready implementations
